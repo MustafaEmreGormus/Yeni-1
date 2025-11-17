@@ -1,2 +1,2 @@
-# maun.java
+# main.java
 Depom
